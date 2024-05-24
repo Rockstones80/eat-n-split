@@ -7,11 +7,11 @@ const FormAddFriend = () => {
         <p className=" font-medium">Friend name</p>
         <input type="text" />
 
-        <p className=" font-medium">Friend name</p>
+        <p className=" font-medium">Image URL</p>
         <input type="text" />
-        <div className="mt-2 col-start-2">
+        <div className="mt-2 col-start-2" >
 
-        <Button> Add</Button>
+        <Button> Add </Button>
         </div>
         </form>
 
