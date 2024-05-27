@@ -1,5 +1,6 @@
 import Button from "../components/Button"
 
+
 const FormSplitBill = () => {
   return (
     <form className="grid grid-cols-[1fr_12rem] py-10 px-16">
